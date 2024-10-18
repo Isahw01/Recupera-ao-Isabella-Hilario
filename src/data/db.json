@@ -1,0 +1,25 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "nome": "Doceria",
+      "email": "docemel@sodoce.com.br",
+      "senha": "brigadeiro123",
+      "tipo": "administrador"
+    }
+  ],
+  "produtos": [
+    {
+      "id": "1",
+      "nomeDoce": "Bolo de chocolate",
+      "tipo": "Bolo",
+      "preco": "110"
+    },
+    {
+      "id": "2",
+      "nomeDoce": "Torta de limão",
+      "tipo": "Torta",
+      "preco": "97"
+    }
+  ]
+}
